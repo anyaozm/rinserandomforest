@@ -1,6 +1,10 @@
-##Sustainable Industry: Rinse Over Run HOSTED BY DRIVENDATA
+#Sustainable Industry: Rinse Over Run HOSTED BY DRIVENDATA
 
 A Random Forest is an ensemble technique capable of performing both regression and classification tasks with the use of multiple decision trees and a technique called Bootstrap Aggregation, commonly known as bagging. What is bagging you may ask? Bagging, in the Random Forest method, involves training each decision tree on a different data sample where sampling is done with replacement.
+
+
+link to contest:https://www.drivendata.org/competitions/56/predict-cleaning-time-series/
+
 
 more info: https://medium.com/datadriveninvestor/random-forest-regression-9871bc9a25eb
 
